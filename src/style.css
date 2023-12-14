@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@layer components {
+  h1 {
+    @apply mt-8 text-4xl font-semibold  text-Primary;
+  }
+  h2 {
+    @apply mt-8 text-3xl font-semibold text-Primary;
+  }
+  h3 {
+    @apply mt-8 text-2xl font-semibold text-Primary;
+  }
+  h4 {
+    @apply mt-8 text-xl font-semibold text-Secondary;
+  }
+  h5 {
+    @apply mt-8 text-base font-semibold text-Primary;
+  }
+  h6 {
+    @apply mt-8 text-sm font-semibold text-Primary;
+  }
+  p {
+    @apply mt-4 text-justify text-base font-normal text-Primary;
+  }
+  a {
+    @apply text-base font-normal text-Primary underline decoration-Primary underline-offset-2 hover:text-Neutral hover:decoration-Neutral;
+  }
+  span {
+    @apply text-base font-semibold text-Secondary
+  }
+}
+@tailwind utilities;
+@layer utilities {
+  body::-webkit-scrollbar {
+    width: 10px; /* width of the entire scrollbar */
+  }
+
+  body::-webkit-scrollbar-track {
+    background: rgb(43, 13, 87); /* color of the tracking area */
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background-color: #fff200; /* color of the scroll thumb */
+    border-radius: 20px; /* roundness of the scroll thumb */
+    border: 3px solid #913e94;
+  }
+}

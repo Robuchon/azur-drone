@@ -15,13 +15,13 @@
           </div>
         </router-link>
         <router-link :to="'/insp'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/vue.png" alt="" srcset=""
+          <div class="flex flex-col items-center m-4"> <img src="/img/drone2.png" alt="" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Inspection d'infrastrucutre</p>
           </div>
         </router-link>
         <router-link :to="'/suiv'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/drone2.png" alt="" srcset=""
+          <div class="flex flex-col items-center m-4"> <img src="/img/vue.png" alt="" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Suivi de chantier</p>
           </div>

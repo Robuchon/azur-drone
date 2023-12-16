@@ -3,7 +3,7 @@
     <div name="content" class="mx-auto flex flex-col items-center">
       <h1>Suivi de chantier</h1>
     </div>
-    <img src="/img/drone2.png" alt="" srcset="" class=" max-w-[480px] w-[90%] mx-auto mt-8">
+    <img src="/img/vue.png" alt="" srcset="" class=" max-w-[480px] w-[90%] mx-auto mt-8">
     <div name="txts" class="mx-auto flex flex-col items-center">
       <p class="mt-8 max-w-2xl">
         L'utilisation d'un drone pour le suivi de chantier présente de nombreux avantages. Tout d'abord, les images

@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-8 w-full max-w-7xl px-6">
+  <div class="mx-auto mt-8 w-full max-w-7xl px-6">
     <div name="content" class="mx-auto flex flex-col items-center">
       <h1>Suivi de chantier</h1>
     </div>

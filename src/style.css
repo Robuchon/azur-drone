@@ -23,7 +23,7 @@
     @apply mt-4 text-justify text-base font-normal text-Primary;
   }
   a {
-    @apply text-base font-normal text-Primary underline decoration-Primary underline-offset-2 hover:text-Neutral hover:decoration-Neutral;
+    @apply text-base font-normal text-Primary underline decoration-Primary underline-offset-2 hover:text-Secondary hover:decoration-Secondary;
   }
   span {
     @apply text-base font-semibold text-Secondary

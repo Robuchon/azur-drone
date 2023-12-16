@@ -72,7 +72,7 @@ import Footer from "./components/footer/Footer.vue";
 import { ref, onMounted, watch } from "vue";
 
 const navigation = ref([
-  { name: "Moi", goto: "/home", logo: "HomeIcon" },
+  { name: "Accueil", goto: "/home", logo: "HomeIcon" },
   {
     name: "Services",
     logo: "DocumentTextIcon",

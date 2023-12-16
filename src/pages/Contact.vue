@@ -31,7 +31,7 @@
                 <PhoneIcon class="h-7 w-6" aria-hidden="true" />
               </dt>
               <dd>
-                <a class="hover:text-Neutral" href="tel:+33 659917301">+33 6 59 91 73 01</a>
+                <a class="hover:text-Secondary" href="tel:+33 659917301">+33 6 59 91 73 01</a>
               </dd>
             </div>
             <div class="flex gap-x-4">
@@ -40,7 +40,7 @@
                 <EnvelopeIcon class="h-7 w-6" aria-hidden="true" />
               </dt>
               <dd>
-                <a class="hover:text-Neutral" href="mailto:azurdrone@yahoo.com">azurdrone@yahoo.com</a>
+                <a class="hover:text-Secondary" href="mailto:azurdrone@yahoo.com">azurdrone@yahoo.com</a>
               </dd>
             </div>
           </dl>

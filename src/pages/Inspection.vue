@@ -1,36 +1,26 @@
 <template>
-  <div class="mt-16 w-full max-w-7xl px-2">
+  <div class="mt-8 w-full max-w-7xl px-6">
     <div name="content" class="mx-auto flex flex-col items-center">
-      <h1>Inspection infrastructure</h1>
-      <p class="mt-8 max-w-2xl">
-        Bienvenue chez Azur Drone, votre partenaire incontournable pour des prises de vues aériennes exceptionnelles de
-        toitures, de monuments, ou d'ouvrages. Nous comprenons l'importance cruciale de capturer des images de haute
-        qualité pour répondre à vos besoins, que ce soit pour l'inspection de toitures, la documentation de monuments
-        historiques, ou la préparation de dossiers de permis de construire.
-      </p>
+      <h1>Inspection d'infrastructures </h1>
     </div>
-
+    <img src="/img/vue.png" alt="" srcset="" class=" max-w-[480px] w-[90%] mx-auto mt-8">
     <div name="txts" class="mx-auto flex flex-col items-center">
       <p class="mt-8 max-w-2xl">
-        Le drone se révèle être l'outil indispensable dans le domaine, offrant une approche facile et rapide pour obtenir
-        des images saisissantes. Grâce à notre expertise et à notre technologie de pointe, nous vous permettons d'accéder
-        à des perspectives aériennes uniques, mettant en lumière les détails les plus cruciaux de vos projets.
+        L'utilisation d'un drone pour la surveillance des infrastructures présente de nombreux avantages. Tout d'abord,
+        les images aériennes permettent de détecter rapidement les signes de détérioration ou de dommages sur les
+        infrastructures. Cela permet aux ingénieurs et aux gestionnaires d'infrastructures de prendre des mesures
+        préventives ou correctives pour assurer la sécurité et la durabilité des infrastructures.
       </p>
       <p class="mt-8 max-w-2xl">
-        Imaginez la facilité avec laquelle vous pouvez documenter chaque centimètre de toiture, chaque détail
-        architectural d'un monument ou d'un ouvrage. Avec Azur Drone, la qualité de vos images est à la hauteur de vos
-        exigences. Nous comprenons l'importance de fournir des visuels de première classe pour vos dossiers de permis de
-        construire, et c'est pourquoi nous mettons à votre disposition notre savoir-faire pour garantir des résultats
-        exceptionnels.
+        De plus, les drones peuvent également être utilisés pour réaliser des inspections détaillées des infrastructures.
+        Grâce à des caméras haute résolution et à des capteurs spécialisés, les drones peuvent détecter des défauts ou des
+        anomalies invisibles à l'œil nu. Cela permet d'identifier les problèmes potentiels avant qu'ils ne deviennent
+        critiques et coûteux à réparer.
       </p>
-      <p class="mt-8 max-w-2xl">Explorez de nouveaux horizons avec Azur Drone, où la technologie rencontre la précision,
-        et où chaque cliché aérien devient une œuvre d'art fonctionnelle. Faites-nous confiance pour donner vie à vos
-        projets avec des images aériennes qui captivent et qui font la différence.</p>
-      <p class="mt-8 max-w-2xl">Azur Drone, votre vision du ciel à portée de main.</p>
-
     </div>
+  </div>
   <Contact></Contact>
-</div></template>
+</template>
 
 <script setup>
 import Contact from "./Contact.vue";

@@ -43,11 +43,11 @@
       isScrolled ? 'shadow-Secondary' : '',
       scrollPosition === 0 || scrollPosition < 10
         ? 'shadow-none'
-        : scrollPosition > 10 && scrollPosition < 80
+        : scrollPosition >= 10 && scrollPosition < 80
           ? 'shadow-sm '
-          : scrollPosition > 81 && scrollPosition < 160
+          : scrollPosition >= 80 && scrollPosition < 160
             ? 'shadow'
-            : scrollPosition > 161
+            : scrollPosition >= 160
               ? 'shadow-md'
               : '',
     ]" :style="classOpacity">
@@ -80,7 +80,7 @@ const navigation = ref([
       { name: "Valorisation immobilière", goto: "/valo" },
       { name: "Inspection d'infrastrucutre", goto: "/insp" },
       { name: "Suivi de chantier", goto: "/suiv" },
-      { name: "Vidéo aérienne", goto: "/vid" },
+      { name: "Photogrammetrie", goto: "/vid" },
     ],
   },
   { name: "Contact", goto: "/Contact", logo: "ChatBubbleBottomCenterTextIcon" },

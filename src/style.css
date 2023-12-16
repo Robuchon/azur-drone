@@ -14,19 +14,19 @@
     @apply mt-8 text-xl font-semibold text-Secondary;
   }
   h5 {
-    @apply mt-8 text-base font-semibold text-Primary;
+    @apply mt-8 text-lg font-semibold text-Primary;
   }
   h6 {
-    @apply mt-8 text-sm font-semibold text-Primary;
+    @apply mt-8 text-base font-semibold text-Primary;
   }
   p {
-    @apply mt-4 text-justify text-base font-normal text-Primary;
+    @apply mt-4 text-justify text-lg font-normal text-Primary;
   }
   a {
-    @apply text-base font-normal text-Primary underline decoration-Primary underline-offset-2 hover:text-Secondary hover:decoration-Secondary;
+    @apply text-lg font-normal text-Primary underline decoration-Primary underline-offset-2 hover:text-Secondary hover:decoration-Secondary;
   }
   span {
-    @apply text-base font-semibold text-Secondary
+    @apply text-lg font-semibold text-Secondary
   }
 }
 @tailwind utilities;

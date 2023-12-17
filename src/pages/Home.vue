@@ -9,28 +9,28 @@
     <div class="max-w-[80%] 2xl:max-w-[90%] mx-auto justify-center px-6">
       <div name="services" class="flex flex-wrap justify-center mx-auto">
         <router-link :to="'/valo'" class="no-underline">
-          <div class="flex flex-col items-center m-4"><img src="/img/drone.png"
+          <div class="flex flex-col items-center m-4"><img src="/img/drone.jpg"
               alt="Service de drone pour valorisation immobilière dans le 06, France" width="320" height="213.3" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Valorisation immobilière</p>
           </div>
         </router-link>
         <router-link :to="'/insp'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/drone2.png"
+          <div class="flex flex-col items-center m-4"> <img src="/img/drone2.jpg"
               alt="Service de drone pour Inspection d'infrastrucutre dans le 06, France" width="320" height="213.3"
               srcset="" class=" max-w-[200px] xl:max-w-xs">
             <p>Inspection d'infrastrucutre</p>
           </div>
         </router-link>
         <router-link :to="'/suiv'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/vue.png"
+          <div class="flex flex-col items-center m-4"> <img src="/img/vue.jpg"
               alt="Service de drone pour Suivi de chantier dans le 06, France" width="320" height="213.3" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Suivi de chantier</p>
           </div>
         </router-link>
         <router-link :to="'/vid'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/photogrammetrie.png"
+          <div class="flex flex-col items-center m-4"> <img src="/img/photogrammetrie.jpg"
               alt="Service de drone pour Photogrammetrie dans le 06, France" width="320" height="213.3" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Photogrammetrie</p>

@@ -3,7 +3,7 @@
     <div name="content" class="mx-auto flex flex-col items-center">
       <h1>Valorisation</h1>
     </div>
-    <img src="/img/drone.png" alt="Service de drone pour valorisation immobilière dans le 06 et 83, France" width="480" height="320" srcset="" class=" max-w-[480px] w-[90%] mx-auto mt-8">
+    <img src="/img/drone.jpg" alt="Service de drone pour valorisation immobilière dans le 06 et 83, France" width="480" height="320" srcset="" class=" max-w-[480px] w-[90%] mx-auto mt-8">
     <div name="txts" class="mx-auto flex flex-col items-center">
       <p class="mt-8 max-w-2xl">
         L'utilisation d'un drone pour la valorisation immobilière présente de nombreux avantages. Tout d'abord, les images

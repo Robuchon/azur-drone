@@ -10,7 +10,7 @@ module.exports = {
         Neutral: "#080808",
       },
       backgroundImage: {
-        'baner': "url('/img/banier.png')",
+        'baner': "url('/img/banier.jpg')",
       }
     },
   },

@@ -4,30 +4,34 @@
       <div class="mx-auto mb-auto rounded-full bg-black absolute blur-sm opacity-80 border-2 border-Secondary">
         <h2 class="md:text-6xl text-Neutral mx-6 my-4 font-serif">AZUR DRONE</h2>
       </div>
-      <h2 class="md:text-6xl text-Secondary mx-4 my-4 z-10 font-serif">AZUR DRONE</h2>
+      <h1 class="text-3xl md:text-6xl text-Secondary mx-4 my-4 z-10 font-serif">AZUR DRONE</h1>
     </div>
     <div class="max-w-[80%] 2xl:max-w-[90%] mx-auto justify-center px-6">
       <div name="services" class="flex flex-wrap justify-center mx-auto">
         <router-link :to="'/valo'" class="no-underline">
-          <div class="flex flex-col items-center m-4"><img src="/img/drone.png" alt="" srcset=""
+          <div class="flex flex-col items-center m-4"><img src="/img/drone.png"
+              alt="Service de drone pour valorisation immobilière dans le 06, France" width="320" height="213.3" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Valorisation immobilière</p>
           </div>
         </router-link>
         <router-link :to="'/insp'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/drone2.png" alt="" srcset=""
-              class=" max-w-[200px] xl:max-w-xs">
+          <div class="flex flex-col items-center m-4"> <img src="/img/drone2.png"
+              alt="Service de drone pour Inspection d'infrastrucutre dans le 06, France" width="320" height="213.3"
+              srcset="" class=" max-w-[200px] xl:max-w-xs">
             <p>Inspection d'infrastrucutre</p>
           </div>
         </router-link>
         <router-link :to="'/suiv'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/vue.png" alt="" srcset=""
+          <div class="flex flex-col items-center m-4"> <img src="/img/vue.png"
+              alt="Service de drone pour Suivi de chantier dans le 06, France" width="320" height="213.3" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Suivi de chantier</p>
           </div>
         </router-link>
         <router-link :to="'/vid'" class="no-underline">
-          <div class="flex flex-col items-center m-4"> <img src="/img/photogrammetrie.png" alt="" srcset=""
+          <div class="flex flex-col items-center m-4"> <img src="/img/photogrammetrie.png"
+              alt="Service de drone pour Photogrammetrie dans le 06, France" width="320" height="213.3" srcset=""
               class=" max-w-[200px] xl:max-w-xs">
             <p>Photogrammetrie</p>
           </div>

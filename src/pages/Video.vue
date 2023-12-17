@@ -3,7 +3,8 @@
     <div name="content" class="mx-auto flex flex-col items-center">
       <h1>Photogrammetrie</h1>
     </div>
-    <img src="/img/photogrammetrie.png" alt="" srcset="" class=" max-w-[480px] w-[90%] mx-auto mt-8">
+    <img src="/img/photogrammetrie.png" alt="Service de drone pour Photogrammetrie dans le 06 et 83, France" width="480" height="320" srcset=""
+      class=" max-w-[480px] w-[90%] mx-auto mt-8">
     <div name="txts" class="mx-auto flex flex-col items-center">
       <p class="mt-8 max-w-2xl">
         La photogrammétrie à l'aide d'un drone est une technique qui permet de créer des modèles 3D à partir de

@@ -5,7 +5,7 @@
     >
     
     <div class="flex items-center justify-between">
-        <img src="/img/logo.png" alt="" srcset="" class="w-14 h-14 md:w-20 md:h-20 -my-3 md:-my-6 mr-2">
+        <img src="/img/logo.png" alt="logo Azur Drone" srcset="" class="w-14 h-14 md:w-20 md:h-20 -my-3 md:-my-6 mr-2">
         <PopoverGroup
           as="nav"
           class="mx-auto flex flex-wrap justify-center space-x-2 lg:space-x-6"

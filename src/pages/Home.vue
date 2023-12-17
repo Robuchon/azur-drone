@@ -39,12 +39,12 @@
       </div>
     </div>
     <div class="max-w-2xl mx-auto px-6">
-      <h4>Bienvenue chez Azur Drone</h4>
+      <h2 class="text-Secondary">Bienvenue chez Azur Drone</h2>
       <p>Élevez vos projets avec l'excellence aérienne</p>
       <p>Bienvenue chez Azur Drone, votre partenaire de confiance pour des solutions de drone innovantes. Nous combinons
         la technologie de pointe avec une expertise inégalée pour offrir des services exceptionnels dans quatre domaines
         clés : la valorisation immobilière, l'inspection d'infrastructure, le suivi de chantier, et la vidéo aérienne.</p>
-      <h4>Nos Services</h4>
+      <h3 class="text-Secondary">Nos Services</h3>
       <p><span class="text-white font-extrabold">Valorisation Immobilière :</span> Transformez la présentation de vos
         biens avec des images aériennes époustouflantes qui mettent en valeur chaque détail, attirant l'attention des
         clients potentiels.</p>
@@ -54,14 +54,14 @@
         construction grâce à un suivi aérien en temps réel, offrant des mises à jour détaillées et des modèles 3D.</p>
       <p><span class="text-white font-extrabold">Vidéo Aérienne :</span> Créez des vidéos captivantes qui donnent vie à
         vos projets, offrant une perspective unique et engageante.</p>
-      <h4>Pourquoi Choisir Azur Drone ?</h4>
+      <h3 class="text-Secondary">Pourquoi Choisir Azur Drone ?</h3>
       <p><span class="text-white font-extrabold">Expertise :</span> Notre équipe possède une expertise approfondie dans
         l'utilisation des drones pour des applications variées, garantissant des résultats exceptionnels.</p>
       <p><span class="text-white font-extrabold">Technologie de Pointe :</span> Nous utilisons des drones équipés des
         dernières technologies pour fournir des images de haute qualité et des données précises.</p>
       <p><span class="text-white font-extrabold">Personnalisation :</span> Chaque projet est unique, et nos services sont
         adaptés à vos besoins spécifiques pour assurer une satisfaction maximale.</p>
-      <h4>Demandez Votre Devis Personnalisé</h4>
+      <h3 class="text-Secondary">Demandez Votre Devis Personnalisé</h3>
       <p>Prêt à élever vos projets vers de nouveaux sommets ? Demandez dès aujourd'hui un devis personnalisé pour
         découvrir comment Azur Drone peut faire la différence pour votre entreprise.</p>
     </div>

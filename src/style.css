@@ -2,22 +2,22 @@
 @tailwind components;
 @layer components {
   h1 {
-    @apply mt-8 text-4xl font-semibold  text-Primary;
+    @apply mt-8 text-4xl font-semibold  text-Secondary;
   }
   h2 {
-    @apply mt-8 text-3xl font-semibold text-Primary;
+    @apply mt-8 text-3xl font-semibold text-Secondary;
   }
   h3 {
-    @apply mt-8 text-2xl font-semibold text-Primary;
+    @apply mt-8 text-2xl font-semibold text-Secondary;
   }
   h4 {
     @apply mt-8 text-xl font-semibold text-Secondary;
   }
   h5 {
-    @apply mt-8 text-lg font-semibold text-Primary;
+    @apply mt-8 text-lg font-semibold text-Secondary;
   }
   h6 {
-    @apply mt-8 text-base font-semibold text-Primary;
+    @apply mt-8 text-base font-semibold text-Secondary;
   }
   p {
     @apply mt-4 text-justify text-lg font-normal text-Primary;

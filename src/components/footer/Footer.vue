@@ -8,7 +8,7 @@
           v-for="item in navigation"
           :key="item.name"
           :href="item.href"
-          class="text-Primary hover:text-Neutral"
+          class="text-Primary hover:text-Secondary"
           target="_blank"
         >
           <span class="sr-only">{{ item.name }}</span>
